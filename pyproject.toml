@@ -1,0 +1,9 @@
+[project]
+name = "codenames"
+version = "0.1.0"
+description = "MCP server for playing Codenames on horsepaste.com"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp>=2.2.0",
+    "requests>=2.34.2",
+]
