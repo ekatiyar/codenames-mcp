@@ -1,0 +1,4 @@
+[mcp_servers.codenames]
+command = "uv"
+args = ["run", "server.py"]
+default_tools_approval_mode = "approve"
